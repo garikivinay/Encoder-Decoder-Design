@@ -2,7 +2,7 @@
 4-to-2 Priority Encoder and 2-to-4 Binary Decoder using Verilog HDL
 
 ## CodeTech VLSI Internship
-## Intern id :- CITS2245
+## Intern id :- CITS6509
 
 ### Project Overview
 This project implements a **4-to-2 Priority Encoder** and a **2-to-4 Binary Decoder** using **Verilog HDL**. The Priority Encoder converts a 4-bit input into a 2-bit binary code based on the highest-priority active input, while the Binary Decoder converts a 2-bit binary input into a one-hot 4-bit output. Both modules include an **Enable** control signal and are verified using a Verilog testbench.
